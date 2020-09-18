@@ -1,3 +1,4 @@
+![](Ali.png)
 
 # Ali Hazimeh
 web developer
